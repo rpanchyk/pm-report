@@ -1,0 +1,12 @@
+files:
+  project_config: <PREFIX>_ProjectConfig.xlsx
+  report: <PREFIX>_Report.xlsx
+
+tempo:
+  url: https://api.tempo.io
+  tokens:
+    - token: <TEMPO_TOKEN>
+      projects: <PROJECT_LIST>
+
+    - token: <TEMPO_TOKEN>
+      projects: <PROJECT_LIST>
